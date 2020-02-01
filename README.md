@@ -1,6 +1,6 @@
 # Piano_Play_Android
 Android App to play and learn Piano.
-A custom layout is made to display piano panel.
+A custom layout is made to display piano panel.<br>
 **Note: It is does not use any extra dependenices.**
 
 Pre-requisites
